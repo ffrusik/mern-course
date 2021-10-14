@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "ffrusik mern course",
+    "mongoUri": "mongodb+srv://ffrusik:database123@cluster0.0hkny.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl" : "http://localhost:5000"
+}
